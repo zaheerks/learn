@@ -1,0 +1,11 @@
+lva1-app0626.corp.linkedin.com: 1617268231
+zshaikh-mn1:~ zshaikh$ cat a | awk '{FS=":",print $1}'
+awk: syntax error at source line 1
+ context is
+	 >>> {FS=":", <<<
+awk: illegal statement at source line 1
+awk: illegal statement at source line 1
+zshaikh-mn1:~ zshaikh$ cat a | awk '{FS=":"} {print $1}'
+lva1-app4805.corp.linkedin.com:
+lva1-app5035.corp.linkedin.com
+
