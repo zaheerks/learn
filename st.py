@@ -12,6 +12,7 @@
 11. Price and volume trend UP
 12.NR ( 4or 7 ) or 3 white caNDLES
 13. Opening price above or near to yesterday's close.
+14.,Make sure to piock stocks avove 50/44 MA
 
 
 1.Use CPR once it crosses TC, use bhavcopy from nse, so that we cant get trapped for pivot pattern.Else post 10 AM once it crosses R1 buy it.
