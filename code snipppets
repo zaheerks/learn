@@ -1,6 +1,6 @@
-lva1-app0626.corp.linkedin.com: 1617268231
+lXXX1-app0626.cXXXX.XXXXXX.com: 1617268231
 
-zshaikh-mn1:~ zshaikh$ cat a | awk '{FS=":"} {print $1}'
-lva1-app4805.corp.linkedin.com:
-lva1-app5035.corp.linkedin.com
+cat a | awk '{FS=":"} {print $1}'
+lXXX1appxxxxx.cXXXX.XXXXXX..com:
+lXXX1-appxxxxx.cXXXX.XXXXXX..com
 
